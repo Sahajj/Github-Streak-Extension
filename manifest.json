@@ -1,0 +1,11 @@
+{
+    "name": "Your GitHub Streak",
+    "version": "1.0.0",
+    "description": "Retrieves and shows your latest GitHub Streaks Data",
+    "manifest_version": 3,
+    "author": "Sahaj Jain",
+    "action":{
+        "default_popup": "script.html",
+        "default_title": "Your GitHub Streak"
+    }
+}
